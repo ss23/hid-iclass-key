@@ -1,1 +1,5 @@
-The global HID iCLASS key, released by @AmmonRa at Kiwicon X (2016)
+- The global HID iCLASS key, released by @AmmonRa at Kiwicon X (2016)
+
+recreation sources:
+- http://blog.opensecurityresearch.com/2012/11/dumping-iclass-keys.html
+- https://blog.kchung.co/reverse-engineering-hid-iclass-master-keys/
